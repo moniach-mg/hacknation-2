@@ -1,0 +1,2 @@
+[spacy_models]
+pl_hacknationNER = pl_hacknationNER
