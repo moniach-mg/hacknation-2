@@ -46,7 +46,7 @@ This script and the accompanying model have been created to anonymize various pe
 * {pesel}
 * {date}
 * {company}
-* {health}: names of diesieses and states related to body, such as hypertension or pregnancy
+* {health}: names of diseases and states related to body, such as hypertension or pregnancy
 * {document-number}
 * {political-view}: words related to political views and believes, such as liberal, conservative.
 
